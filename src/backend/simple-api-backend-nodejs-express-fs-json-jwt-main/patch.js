@@ -1,0 +1,1 @@
+global.SlowBuffer = { prototype: {} };
